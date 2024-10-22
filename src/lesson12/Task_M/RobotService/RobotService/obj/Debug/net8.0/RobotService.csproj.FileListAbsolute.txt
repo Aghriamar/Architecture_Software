@@ -1,0 +1,15 @@
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\bin\Debug\net8.0\RobotService.exe
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\bin\Debug\net8.0\RobotService.deps.json
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\bin\Debug\net8.0\RobotService.runtimeconfig.json
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\bin\Debug\net8.0\RobotService.dll
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\bin\Debug\net8.0\RobotService.pdb
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.AssemblyInfo.cs
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.sourcelink.json
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.dll
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\refint\RobotService.dll
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.pdb
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\RobotService.genruntimeconfig.cache
+C:\Users\A1exX\IdeaProjects\GeekBrains\src\lesson12\Task_M\RobotService\RobotService\obj\Debug\net8.0\ref\RobotService.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8887AF8D-EF1C-4DC1-837B-022274301100}|RobotService.Test\\RobotService.Test.csproj|c:\\users\\a1exx\\ideaprojects\\geekbrains\\src\\lesson12\\task_m\\robotservice\\robotservice.test\\robotscheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887AF8D-EF1C-4DC1-837B-022274301100}|RobotService.Test\\RobotService.Test.csproj|solutionrelative:robotservice.test\\robotscheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|c:\\users\\a1exx\\ideaprojects\\geekbrains\\src\\lesson12\\task_m\\robotservice\\robotservice\\cleaningtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|solutionrelative:robotservice\\cleaningtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|c:\\users\\a1exx\\ideaprojects\\geekbrains\\src\\lesson12\\task_m\\robotservice\\robotservice\\robotscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|solutionrelative:robotservice\\robotscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|c:\\users\\a1exx\\ideaprojects\\geekbrains\\src\\lesson12\\task_m\\robotservice\\robotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE457875-5633-4FA7-A534-24314F6056B7}|RobotService\\RobotService.csproj|solutionrelative:robotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RobotScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\RobotScheduleService.cs",
+              "RelativeDocumentMoniker": "RobotService\\RobotScheduleService.cs",
+              "ToolTip": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\RobotScheduleService.cs",
+              "RelativeToolTip": "RobotService\\RobotScheduleService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:28:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CleaningTask.cs",
+              "DocumentMoniker": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\CleaningTask.cs",
+              "RelativeDocumentMoniker": "RobotService\\CleaningTask.cs",
+              "ToolTip": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\CleaningTask.cs",
+              "RelativeToolTip": "RobotService\\CleaningTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:27:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotScheduleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService.Test\\RobotScheduleServiceTests.cs",
+              "RelativeDocumentMoniker": "RobotService.Test\\RobotScheduleServiceTests.cs",
+              "ToolTip": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService.Test\\RobotScheduleServiceTests.cs",
+              "RelativeToolTip": "RobotService.Test\\RobotScheduleServiceTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:26:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\Program.cs",
+              "RelativeDocumentMoniker": "RobotService\\Program.cs",
+              "ToolTip": "C:\\Users\\A1exX\\IdeaProjects\\GeekBrains\\src\\lesson12\\Task_M\\RobotService\\RobotService\\Program.cs",
+              "RelativeToolTip": "RobotService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:25:39.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
